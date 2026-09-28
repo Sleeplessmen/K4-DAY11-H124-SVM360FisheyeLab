@@ -1,9 +1,19 @@
 round: r1_craft
 slice: B4-mid
-sha256: 17d3a2b89964b353df28717b706d32c59c071737a62b5e25b8fab5215c403a68
-code: 17D3-A2B8
-locked_at: 2026-09-28T18:47:40+07:00
+sha256: 9f19a663f5c5eb25448d97be3651f8dc22ef945d4cdd714886084ab7ed0b4724
+code: 9F19-A663
+locked_at: 2026-09-28T18:56:00+07:00
 shapes: box=9, polygon=6
 prefill_kept: 1
 prefill_edited: 0
 new: 8
+history:
+  round: r1_craft
+  slice: B4-mid
+  sha256: 17d3a2b89964b353df28717b706d32c59c071737a62b5e25b8fab5215c403a68
+  code: 17D3-A2B8
+  locked_at: 2026-09-28T18:47:40+07:00
+  shapes: box=9, polygon=6
+  prefill_kept: 1
+  prefill_edited: 0
+  new: 8
