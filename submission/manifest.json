@@ -131,19 +131,19 @@
     },
     {
       "file": "rework/annotations-v2.xml",
-      "lines": 308,
-      "sha256": "9f19a663f5c5eb25448d97be3651f8dc22ef945d4cdd714886084ab7ed0b4724"
+      "lines": 333,
+      "sha256": "976386f5f724b715ce0632ffc9a7fb5a024021f5036e3951f9ae73d5f8edc3e0"
     },
     {
       "file": "rework/lock2.txt",
-      "lines": 19,
-      "sha256": "d3e8c30fee5dbd59887f701f18426f1986906c6b33d9e7751ca724c5c44bdcee",
-      "locked_at": "2026-09-29T17:37:43+07:00"
+      "lines": 29,
+      "sha256": "6fbbddeef22df7a2f3974684b1605588d87eeee4dd9017f4eb4adc6e6b0cadb4",
+      "locked_at": "2026-09-29T17:44:30+07:00"
     },
     {
       "file": "rework/delta.md",
       "lines": 46,
-      "sha256": "4e037c89b51a6e920fd2bb7e82fed10a4d910e89a35fd1a46e8d5b28e4d17c34"
+      "sha256": "f514634e2970f44d4394eda234e6ef1d5d67a64948607bd10205cbc00afd10a7"
     },
     {
       "file": "findings.csv",
